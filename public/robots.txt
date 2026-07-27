@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tyreon.in/
+
+# Sitemaps
+Sitemap: https://tyreon.in/sitemap.xml
